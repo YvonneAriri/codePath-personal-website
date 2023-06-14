@@ -1,0 +1,14 @@
+.workPlace{
+    color: blue;
+}
+.color{
+    color: aqua;
+}
+.introduction{
+    box-shadow: 10px 5px 5px blue;
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: pink;
+}
